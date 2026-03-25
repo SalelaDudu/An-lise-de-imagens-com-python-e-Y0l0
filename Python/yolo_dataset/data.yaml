@@ -1,5 +1,0 @@
-path: C:/Users/ProjetoFapesIfes/Downloads/img_marcada/yolo_dataset
-train: images/train
-val: images/train  # Usando os mesmos dados para validação neste primeiro teste
-nc: 4
-names: ['Maracuja_verde', 'Maracuja_maduro', 'Manga_verde', 'PossÃ\xadvel_problema']
